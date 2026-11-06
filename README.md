@@ -60,6 +60,7 @@ Replace `startServer()` in the spec with your service URL and adapt the message 
 **Darrius Jones**, QA Automation Engineer
 
 - GitHub: [Djones-qa](https://github.com/Djones-qa)
+- LinkedIn: [Darrius Jones](https://www.linkedin.com/in/darrius-jones-28226b350/)
 
 ## License
 
